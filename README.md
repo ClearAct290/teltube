@@ -36,7 +36,7 @@ Commodore mode switches the whole session to PETSCII.
 - [License](#license)
 
 ---
-<video src="https://github.com/user-attachments/assets/0dc2fd84-b518-41b2-89c5-2901b0ef0e04" controls width="854px" height="480px"></video>
+
 
 
 
