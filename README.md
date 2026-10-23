@@ -20,6 +20,10 @@ Commodore mode switches the whole session to PETSCII.
 - Adapts to your window size (NAWS) on generic terminals.
 
 ---
+<img width="1657" height="952" alt="image" src="https://github.com/user-attachments/assets/67c85982-4d88-4ad1-ad79-40f6339bd699" />
+<img width="1665" height="956" alt="image" src="https://github.com/user-attachments/assets/534510f6-f907-4eb4-9627-538e2f04e2e7" />
+
+
 
 ## Contents
 
