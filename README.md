@@ -1,11 +1,10 @@
-<img width="859" height="321" alt="xl-logo-big-vfl2" src="https://github.com/user-attachments/assets/e6bd2367-5bcf-4b95-ba4a-f2658040bdb4" />
-# teltube
-A telnet proxy for youtube designed to work on ASCII and PETSCII supported terminals
+<p><img width="429" height="160" alt="xl-logo-big-vfl2" src="https://github.com/user-attachments/assets/e6bd2367-5bcf-4b95-ba4a-f2658040bdb4" /></p>
 
 # TelTube - YouTube over Telnet
 
 **Official IP:** Not Yet... (:
 
+A telnet proxy for youtube designed to work on ASCII and PETSCII supported terminals.
 Browse, search and watch YouTube from a telnet client. TelTube is a telnet
 server that serves a YouTube-style text interface (home, search, results and
 watch pages) and a real-time 144p video player that turns video into coloured
