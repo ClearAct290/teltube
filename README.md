@@ -22,6 +22,8 @@ Commodore mode switches the whole session to PETSCII.
 
 ---
 <p>Standard ASCII examples</p>
+
+(Videos may be broken on certain browsers, try to download them)
 <video src="https://github.com/user-attachments/assets/4764e205-470b-4387-9e18-2af06cbb278e" controls"></video>
 <p><img width="555" height="317" alt="image" src="https://github.com/user-attachments/assets/67c85982-4d88-4ad1-ad79-40f6339bd699" /></p>
 <p><img width="555" height="317" alt="image" src="https://github.com/user-attachments/assets/534510f6-f907-4eb4-9627-538e2f04e2e7" /></p>
