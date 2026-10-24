@@ -1,3 +1,4 @@
+
 <p><img width="429" height="160" alt="xl-logo-big-vfl2" src="https://github.com/user-attachments/assets/e6bd2367-5bcf-4b95-ba4a-f2658040bdb4" /></p>
 
 # TelTube - YouTube over Telnet
@@ -21,6 +22,7 @@ Commodore mode switches the whole session to PETSCII.
 
 ---
 <p>Standard ASCII examples</p>
+<video src="https://github.com/user-attachments/assets/4764e205-470b-4387-9e18-2af06cbb278e" controls width="100%"></video>
 <p><img width="555" height="317" alt="image" src="https://github.com/user-attachments/assets/67c85982-4d88-4ad1-ad79-40f6339bd699" /></p>
 <p><img width="555" height="317" alt="image" src="https://github.com/user-attachments/assets/534510f6-f907-4eb4-9627-538e2f04e2e7" /></p>
 <br>
@@ -34,9 +36,17 @@ Commodore mode switches the whole session to PETSCII.
 
 
 
+
+
+
+
+
+
 ## Contents
 
 - [Requirements](#requirements)
+
+
 - [Installation](#installation)
 - [Running](#running)
 - [Connecting](#connecting)
