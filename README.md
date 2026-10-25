@@ -25,12 +25,12 @@ Commodore mode switches the whole session to PETSCII.
 <p>Standard ASCII examples</p>
 
 (Videos may be broken on certain browsers, try to download them)
-<video src="https://github.com/user-attachments/assets/4764e205-470b-4387-9e18-2af06cbb278e" controls"></video>
+<p><video src="https://github.com/user-attachments/assets/4764e205-470b-4387-9e18-2af06cbb278e" controls"></video></p>
 <p><img width="555" height="317" alt="image" src="https://github.com/user-attachments/assets/67c85982-4d88-4ad1-ad79-40f6339bd699" /></p>
 <p><img width="555" height="317" alt="image" src="https://github.com/user-attachments/assets/534510f6-f907-4eb4-9627-538e2f04e2e7" /></p>
 <br>
 <p></p>Commodore 64 PETSCII Examples</p>
-<video src="https://github.com/user-attachments/assets/150bf4c1-1f73-4cee-8ebb-97f5bee43461" controls"></video>
+<p><video src="https://github.com/user-attachments/assets/150bf4c1-1f73-4cee-8ebb-97f5bee43461" controls"></video></p>
 <p><img width="581" height="505" alt="image" src="https://github.com/user-attachments/assets/7795c02d-52de-4ccd-8033-2da1bdbc6669" /></p>
 <p><img width="581" height="505" alt="image" src="https://github.com/user-attachments/assets/072d2723-5699-4aaa-983c-a3bb7d7b208d" /></p>
 <p><img width="581" height="505" alt="image" src="https://github.com/user-attachments/assets/14ad91b9-a664-4f6e-9bb4-288c90a2c952" /></p>
