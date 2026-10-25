@@ -5,6 +5,8 @@
 
 **Official IP:** Not Yet... (:
 
+Updates in the works: Low Quality ANSI Audio
+
 A telnet proxy for youtube designed to work on ASCII and PETSCII supported terminals.
 Browse, search and watch YouTube from a telnet client. TelTube is a telnet
 server that serves a YouTube-style text interface (home, search, results and
