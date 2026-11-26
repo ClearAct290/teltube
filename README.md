@@ -3,7 +3,7 @@
 
 # TelTube - YouTube over Telnet
 
-**Official IP:** Not Yet.
+**Official IP:** clearact.bbs.io:8357
 
 
 A telnet proxy for youtube designed to work on ASCII and PETSCII supported terminals.
